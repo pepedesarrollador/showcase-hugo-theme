@@ -1,13 +1,13 @@
 baseURL = "https://www.travelexperiencias.com"
 languageCode = "es"
-title = "Showcase Theme"
+title = "Travel Experiencias"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
-  author = "showcase"
+  author = "Travel Experiencias"
   description = "Minimal, one page, theme for showcasing your work"
   message = ""
   hideAutoMenu = true
