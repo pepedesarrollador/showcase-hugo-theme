@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
+baseURL = "https://www.travelexperiencias.com"
+languageCode = "es"
 title = "Showcase Theme"
 Paginate = 1000
 googleAnalytics = ""
@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
   author = "showcase"
   description = "Minimal, one page, theme for showcasing your work"
   message = ""
-  hideAutoMenu = false
+  hideAutoMenu = true
 
 [[menu.main]]
   name = "External"
@@ -18,6 +18,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [social]
   facebook = "https://facebook.com"
-  twitter = "https://twitter.com"
   instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
