@@ -1,7 +1,7 @@
 ---
-title: 02 Safaris por internet
+title: Safaris por internet
 date:
 subtitle:
 link: https://viajesarroyo.travelersense.com/viajes/?country=ke
-image: https://source.unsplash.com/900x600/?africa
+image: fotoweb.2.bn.webp
 ---
