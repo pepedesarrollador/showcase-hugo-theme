@@ -1,7 +1,7 @@
 ---
-title: 04 Excursiones y visitas
+title: Tours & Excursiones
 date:
-subtitle:
+subtitle: Aquí puedes comprar todas las Escursiones & Tours del  Mundo
 link: https://www.civitatis.com/es/?aid=10670
-image: https://source.unsplash.com/900x600/?tour
+image: fotoweb.4new.webp
 ---
