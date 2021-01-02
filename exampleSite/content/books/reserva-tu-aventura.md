@@ -1,7 +1,7 @@
 ---
-title: Reserva tu aventura
-date: 2020-06-01
+title: 01 Reserva tu aventura
+date:
 subtitle:
 link: https://viajesarroyo.travelersense.com/
-image: https://source.unsplash.com/900x600/?adventure
+image: https://source.unsplash.com/900x600/?traveller
 ---
