@@ -4,6 +4,9 @@
   <div class="container px-5 py-8 mx-auto">
     {{- partial "custom-message.html" . -}}
 
+    <img src="https://source.unsplash.com/900x600/?africa" alt="Simply Easy Learning" width="900"
+       height="600">
+
     <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
       {{ range where .Site.Pages "Kind" "page" }}
       {{ if ne .Params.Exclude true }}
