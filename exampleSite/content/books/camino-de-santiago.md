@@ -1,7 +1,7 @@
 ---
-title: TRAVELEXPERIENCIAS TEMÁTICOS
+title: Viajes TEMÁTICOS  Camino de Santiago
 date:
 subtitle: En preparación CAMINO SANTIAGO en Grupo
-link: https://www.civitatis.com/es/?aid=10670
+link: 
 image: camino.webp
 ---
