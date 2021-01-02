@@ -1,7 +1,7 @@
 ---
-title: Tours & Excursiones
+title: TRAVELEXPERIENCIAS TEMÁTICOS
 date:
-subtitle: Aquí puedes comprar todas las Escursiones & Tours del  Mundo
+subtitle: En preparación CAMINO SANTIAGO en Grupo
 link: https://www.civitatis.com/es/?aid=10670
-image: fotoweb.4new.webp
+image: camino.webp
 ---
