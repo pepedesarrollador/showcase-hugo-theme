@@ -1,7 +1,7 @@
 ---
 title: Viajes a Turquia Injertos Pelo
 date:
-subtitle: Pregunta por nuestros Grupos a Turquia
+subtitle: Pregunta por los Grupos a Turquia
 link:
 image: webpelo1.webp
 ---
